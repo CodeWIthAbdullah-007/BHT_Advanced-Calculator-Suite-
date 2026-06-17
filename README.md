@@ -1,14 +1,14 @@
-# 🧮 BHT_Advanced-Calculator-Suite
+# 🏢 ByteHex Internship Management Portal
 
 ## 📌 Description
-BHT Advanced Calculator Suite is a web-based calculator application that performs basic and advanced mathematical operations. It is designed to provide a fast, simple, and user-friendly experience while practicing front-end development skills using JavaScript logic and UI design.
+ByteHex Internship Management Portal is a web-based system designed to manage internship activities, including student registration, task assignments, progress tracking, and submission handling. It helps in organizing internship workflows in a simple and efficient way using a user-friendly interface.
 
 ## ✨ Features
-- ➕ Basic calculations (Add, Subtract, Multiply, Divide)  
-- 🧠 Advanced operations support  
-- 🧮 Clean and simple interface  
-- 📱 Responsive design for all devices  
-- ⚡ Fast and accurate results  
+- 👨‍🎓 Student registration and management  
+- 📌 Task assignment system  
+- 📊 Progress tracking  
+- 📤 Submission handling  
+- 📱 Responsive dashboard UI  
 
 ## 🛠️ Technologies Used
 - 🌐 HTML  
@@ -16,9 +16,9 @@ BHT Advanced Calculator Suite is a web-based calculator application that perform
 - ⚙️ JavaScript  
 
 ## 🎯 Purpose
-This project is built for learning JavaScript concepts, improving problem-solving skills, and creating interactive web applications.
+This project is built to simulate real-world internship management and improve skills in front-end development and system design.
 
-## 🚀 How to Use
-1. Open the project folder  
-2. Run `index.html` in browser  
-3. Start calculating instantly  
+## 🚀 How to Run
+1. Download or clone the project  
+2. Open `index.html` in browser  
+3. Start using the portal  
